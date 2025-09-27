@@ -1,6 +1,5 @@
-# Exemplo de uso de fila (deque)
-# Serve para entender a ideia de "primeiro que entra, primeiro que sai" (FIFO).
-
+# Example of queue usage (deque)
+# It helps to understand the idea of ​​"first in, first out" (FIFO).
 from collections import deque
 
 fila = deque()

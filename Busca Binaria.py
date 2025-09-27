@@ -1,5 +1,5 @@
-# Implementação simples de busca binária
-# Serve para encontrar a posição de um número em uma lista ORDENADA.
+# Simple implementation of binary search
+# Used to find the position of a number in an ORDERED list.
 
 def busca_binaria(lista, item):
     baixo = 0

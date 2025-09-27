@@ -1,6 +1,5 @@
-# Algoritmo de Ordenação por Seleção
-# Serve para colocar os números de uma lista em ordem crescente.
-
+# Selection Sort Algorithm
+# Used to place the numbers in a list in ascending order.
 def encontra_menor(arr):
     menor = arr[0]
     menor_indice = 0
